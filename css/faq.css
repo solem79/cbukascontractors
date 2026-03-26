@@ -1,1 +1,21 @@
+/* About hero */
+.faq-hero {
+    width: 100% !important;
+    height: 50vh !important;
+    background: url('../images/faq-hero.webp') !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    position: relative !important;
+    background-attachment: initial !important;
+}
 
+.faq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.faq h2 {
+  margin-top: 200px;
+  color: #fff;
+}
